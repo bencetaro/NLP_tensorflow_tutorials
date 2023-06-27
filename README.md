@@ -6,4 +6,4 @@ https://www.tensorflow.org/text/tutorials/
 
   - 'Text_gen_with_RNN.ipynb' - This tutorial demonstrates how to generate text using a character-based RNN.
 
-  - 'Translation_with_transformer.ipynb' - Transformer model trained for translation task from Porgtutuese to English.
+  - 'Translation_with_transformer.ipynb' - Transformer model trained for translation task from Portuguese to English.
